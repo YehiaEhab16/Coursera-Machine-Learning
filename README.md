@@ -1,2 +1,6 @@
 # Coursera-Machine-Learning
 Coursera Machine Learning Final Project
+
+...
+pip3 install -r requirements.txt
+...
